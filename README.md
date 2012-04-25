@@ -1,15 +1,15 @@
 basic-backbone-setup
 ====================
 
-For usage in screencasts.
+For usage in screencasts or practice.
 
-** Contains **
+## Contains ##
 - underscore
 - backbone
 - bootstrap
 
-** Instructions **
-Write your code in coffeescript inside the app folder.
+## Instructions ##
+Write your code in coffeescript.
 
 Run this command in terminal to convert saved changes to javascript:
-    coffee -o javascripts/ -cw app/
+    coffee -cw javascripts/
